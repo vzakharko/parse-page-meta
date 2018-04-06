@@ -8,3 +8,6 @@
 function start(){
 
 }
+function start2(){
+
+}
