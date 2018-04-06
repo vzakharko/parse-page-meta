@@ -1,0 +1,12 @@
+{
+    "name": "vzakharko/parser-page-meta",
+    "require": {
+        "guzzlehttp/guzzle": "^6.3"
+    },
+    "authors": [
+        {
+            "name": "Vasilii Zakharko",
+            "email": "vzakharko@aristeksystems.com"
+        }
+    ]
+}
