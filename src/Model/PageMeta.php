@@ -3,9 +3,13 @@
  * Created by PhpStorm.
  * User: developer
  * Date: 14.5.18
- * Time: 13.33
+ * Time: 15.41
  */
+namespace Model;
 
-class parse
+/**
+ * Class PageMeta
+ */
+class PageMeta
 {
 }

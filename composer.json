@@ -1,7 +1,16 @@
 {
     "name": "vzakharko/parser-page-meta",
+    "autoload": {
+        "psr-4": {
+            "Command\\": "src/Command",
+            "Model\\": "src/Model",
+            "Service\\": "src/Service"
+        }
+    },
     "require": {
-        "guzzlehttp/guzzle": "^6.3"
+        "guzzlehttp/guzzle": "^6.3",
+        "symfony/dom-crawler": "^3.4",
+        "symfony/css-selector": "^3.4"
     },
     "authors": [
         {
